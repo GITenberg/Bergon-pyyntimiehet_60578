@@ -1,0 +1,36 @@
+_repo: Bergon-pyyntimiehet_60578
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Suppanen, Aatto
+    aliases:
+    - Aatto S.
+    - Suppanen, Adolf
+    birthdate: 1855
+    deathdate: 1898
+    gutenberg_agent_id: '6674'
+    url: http://www.gutenberg.org/2009/agents/6674
+    wikipedia: http://fi.wikipedia.org/wiki/Aatto_Suppanen
+creator:
+  author:
+    agent_name: Wetterhoff, Onni
+    birthdate: 1835
+    deathdate: 1892
+    gutenberg_agent_id: '37890'
+    url: http://www.gutenberg.org/2009/agents/37890
+    wikipedia: https://fi.wikipedia.org/wiki/Onni_Wetterhoff
+description: ''
+gutenberg_issued: '2019-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60578'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- GITenberg
+title: Bergön pyyntimiehet
+url: http://www.gutenberg.org/ebooks/60578
